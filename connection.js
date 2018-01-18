@@ -8,6 +8,6 @@ MongoClient.connect(url,
 	{
 		if (err) throw err
 		
-		console.log("Connected!");
+		console.log("Hello World!");
 	}
 );
